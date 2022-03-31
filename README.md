@@ -1,5 +1,6 @@
-# PySHS - Python pour les SHS - #pyshs
-## Programme doctoral en études numériques CUSO
+# PySHS - Python pour les SHS - #pyshs - Programme doctoral en études numériques CUSO
+
+Ce dépôt contient tous les éléments associés à la formation et sera mis à jour au cours de celle-ci.
 
 ## Présentation générale
 
