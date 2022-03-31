@@ -74,7 +74,12 @@ Usages avancés – analyse textuelle – données non structurées - automatisa
 ## Intervenants
 
 [Emilien Schultz est postdoctorant en sociologie des sciences et de la santé](http://eschultz.fr/)
+
 [Matthias Bussonnier est développeur Python chez Quantsight](https://github.com/Carreau)
 
 Ils sont co-auteurs du manuel Python pour les SHS - Introduction à la programmation pour le traitement de données aux Presses Universitaires de Rennes.
+
+## Contact
+
+emilien.schultz [at] gmail.com
 
