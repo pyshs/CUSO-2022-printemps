@@ -1,16 +1,16 @@
+nombre_min_lettres = 4
 sortie_fichier = True
 phrase = input("Écrivez une phrase: ")
 liste_mots = phrase.split(" ")
 nombre_mots = len(liste_mots)
-nombre_min_lettres = 4
 if nombre_mots == 0:
     print("La liste est vide")
 else:
     compteur = 0
     for mot in liste_mots:
         if len(mot) >= nombre_min_lettres:
-            compteur += 1
-    proportion = round(100 * compteur / nombre_mots, 3)
+            compteur = compteur + 1
+    proportion = 100 * compteur / nombre_mots
     informations = {
         "Total": compteur,
         "Proportion": proportion,
