@@ -1,0 +1,1 @@
+{'Total': 2, 'Proportion': 50.0, 'Phrase': 'Ceci est ma phrase', 'Seuil': 4}
